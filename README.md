@@ -1,6 +1,6 @@
 # Weather-Prediction-Using-ML-Models
 
-# Automated Learning and Data Analysis for Picnic Weather Prediction
+# Automated Learning and Data Analysis Course Project for Picnic Weather Prediction
 
 This repository contains code for an Automated Learning and Data Analysis project focused on predicting picnic weather suitability in Dresden, Europe. The project emphasizes interpretability in weather prediction models and utilizes Decision Tree (DT), Attention Neural Network (Att-NN), and Artificial Neural Network (ANN) models.
 
