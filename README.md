@@ -33,5 +33,4 @@ Feel free to explore the code and adapt it for your own projects!
 
 ## Acknowledgments
 
-This project was completed as a course project for Automated Learning and Data Analysis. Credits to the contributors and references used throughout the project.
-
+This project was completed as a course project for the Automated Learning and Data Analysis course (CSC 522) at NC State University.
